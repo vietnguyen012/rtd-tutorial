@@ -10,7 +10,7 @@ author = 'Graziella'
 
 release = '0.1'
 version = '0.1.0'
-sys.path.insert(0, os.path.abspath('../'))
+sys.path.insert(0, os.path.abspath('../../'))
 # -- General configuration
 
 extensions = [
